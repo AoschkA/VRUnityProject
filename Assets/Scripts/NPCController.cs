@@ -9,6 +9,6 @@ public class NPCController : MonoBehaviour {
     }
 
     void PlayerLooking() {
-        print("raycast hit");
+        anim.SetTrigger("Greetings");
     }
 }
