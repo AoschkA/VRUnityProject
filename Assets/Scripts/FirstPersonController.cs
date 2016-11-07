@@ -3,6 +3,7 @@ using System.Collections;
 
 public class FirstPersonController : MonoBehaviour {
     public float movementSpeed = 10.0F;
+    public static bool talkInputReady = false;
 
 	// Use this for initialization
 	void Start () {
