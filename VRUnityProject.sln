@@ -1,9 +1,7 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{82B76B82-E749-FD26-FBF3-3F38B7F1B753}") = "VRUnityProject", "Assembly-CSharp.csproj", "{8368C8BE-7499-8E0A-3F19-1E2116CB46B8}"
-EndProject
-Project("{82B76B82-E749-FD26-FBF3-3F38B7F1B753}") = "VRUnityProject", "Assembly-UnityScript.unityproj", "{E86FC92E-C7EF-FB37-25E7-CA9B8ADF6407}"
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRUnityProject.CSharp", "VRUnityProject.CSharp.csproj", "{7CC78387-12C3-C023-7853-E3A75AA0D585}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,19 +9,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8368C8BE-7499-8E0A-3F19-1E2116CB46B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8368C8BE-7499-8E0A-3F19-1E2116CB46B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8368C8BE-7499-8E0A-3F19-1E2116CB46B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8368C8BE-7499-8E0A-3F19-1E2116CB46B8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E86FC92E-C7EF-FB37-25E7-CA9B8ADF6407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E86FC92E-C7EF-FB37-25E7-CA9B8ADF6407}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E86FC92E-C7EF-FB37-25E7-CA9B8ADF6407}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E86FC92E-C7EF-FB37-25E7-CA9B8ADF6407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC78387-12C3-C023-7853-E3A75AA0D585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC78387-12C3-C023-7853-E3A75AA0D585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC78387-12C3-C023-7853-E3A75AA0D585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC78387-12C3-C023-7853-E3A75AA0D585}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
